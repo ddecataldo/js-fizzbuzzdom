@@ -1,0 +1,21 @@
+body{
+    background-color: #083b4c;
+}
+
+.my-col-7{
+    flex-basis: calc((100% / 7) * 1); 
+    max-width: calc((100% / 7) * 1);
+}
+
+.bg-primary{
+    background-color: #1389b2 !important;
+}
+.bg-success{
+    background-color: #0bd6a1 !important;
+}
+.bg-warning{
+    background-color: #ffd166 !important;
+}
+.bg-danger{
+    background-color: #f0466f !important;
+}
