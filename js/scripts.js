@@ -1,7 +1,7 @@
 const containerFizzBuzz = document.getElementById("fizzBuzz-container");
 
 const row = document.createElement("div");
-row.classList.add("row", "g-1");
+row.classList.add("row", "g-3");
 
 
 for (let i = 1; i <= 100; i++) {
